@@ -5,6 +5,11 @@ Pencil is built for the purpose of providing a free and open-source GUI prototyp
 
 The latest stable version of Pencil is 2.0.5, released on September 27, 2013.
 
+Download your preferred platform: 
+[Linux](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/pencil-2.0.5.tar.gz),
+[Windows](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/Pencil-2.0.5.win32.installer.exe),
+[MacOS](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/evoluspencil/Pencil-2.0.5-mac.tar.bz2)
+
 ----------
 
 
